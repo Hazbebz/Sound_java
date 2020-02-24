@@ -1,4 +1,4 @@
-package ie.dit;
+package ie.audio;
 
 import ddf.minim.AudioInput;
 import ddf.minim.Minim;
